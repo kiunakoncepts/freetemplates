@@ -5,5 +5,7 @@ This repo is a collection of HTML templates available to download for free. They
 ## Preview Links
 
 https://freetemplates.kiunakoncepts.com
+
 https://freetemplates.kiunakoncepts.com/one-page
+
 https://freetemplates.kiunakoncepts.com/browser
